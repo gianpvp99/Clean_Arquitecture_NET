@@ -1,0 +1,6 @@
+@Clean_Arquitecture_NET_HostAddress = http://localhost:5172
+
+GET {{Clean_Arquitecture_NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
